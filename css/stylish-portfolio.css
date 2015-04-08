@@ -271,7 +271,12 @@ footer {
     padding: 20px 0;
 }
 
+.services a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .lead{
-    text-align: justify;
+    text-align: center;
 }
 
