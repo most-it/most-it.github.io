@@ -201,11 +201,11 @@ hr.small {
 }
 
 .service-item__icon.second {
-    background: url('../img/expert_2.jpg');
+    background: url('../img/expert_3.jpg');
 }
 
 .service-item__icon.third {
-    background: url('../img/expert_3.jpg');
+    background: url('../img/expert_2.jpg');
 }
 
 .service-item__icon.fourth {
@@ -222,6 +222,22 @@ hr.small {
 
 .service-item__icon.seventh {
     background: url('../img/expert_7.jpg');   
+}
+
+.service-item__icon.eighth{
+    background: url('../img/expert_8.jpg');   
+}
+
+.service-item__icon.ninth {
+    background: url('../img/expert_9.jpg');   
+}
+
+.service-item__icon.tenth {
+    background: url('../img/expert_10.jpg');   
+}
+
+.service-item__icon.eleven {
+    background: url('../img/expert_11.jpg');   
 }
 
 
