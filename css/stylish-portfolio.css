@@ -240,6 +240,21 @@ hr.small {
 .service-item__icon.eleven {
     background: url('../img/expert_11.jpg');   
 }
+.service-item__icon.part_1 {
+    background: url('../img/expert_11.jpg');   
+}
+.service-item__icon.part_2 {
+    background: url('../img/expert_11.jpg');   
+}
+.service-item__icon.part_3 {
+    background: url('../img/expert_11.jpg');   
+}
+.service-item__icon.part_4 {
+    background: url('../img/expert_11.jpg');   
+}
+.service-item__icon.part_5 {
+    background: url('../img/expert_11.jpg');   
+}
 
 
 /* Callout */
