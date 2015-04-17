@@ -12,6 +12,11 @@ body {
     height: 100%;
 }
 
+#top a {
+    margin: 10px 5px;
+    width: 245px;
+}
+
 body {
     font-family: "Roboto",Arial,sans-serif;
 }
